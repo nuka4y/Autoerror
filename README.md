@@ -1,1 +1,1 @@
-# MyRepo
+# AutoError static lib
